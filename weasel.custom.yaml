@@ -1,0 +1,11 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.13.0
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Mon May 27 10:02:14 2019"
+  rime_version: 1.4.0
+patch:
+  "style/color_scheme": starcraft
+  "style/horizontal": true                    #横竖排
+  "style/font_face": "Microsoft YaHei UI"     #微软雅黑
+  "style/font_point": 13                      #字号13
